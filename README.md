@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a website that contain a list of recipes and the skills demonstrated in his develop are the use of tags like headers, images, unordered and ordered list and links to pages that contain the recipes.
